@@ -1,9 +1,9 @@
 ﻿using Linq.Models;
-
+using Linq.Services;
 
 var people = new List<Person>
 {
-     new Person {Id = 1,FirstName = "Luis", Age = 28}
+     new Person {FirstName = "Luis", Age = 28}
 };
 
 var inputService = new InputServices(people);
