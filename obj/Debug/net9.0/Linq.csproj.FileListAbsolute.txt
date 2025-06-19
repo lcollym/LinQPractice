@@ -12,3 +12,4 @@ C:\Users\lcoll\code\sharp\Linq\obj\Debug\net9.0\refint\Linq.dll
 C:\Users\lcoll\code\sharp\Linq\obj\Debug\net9.0\Linq.pdb
 C:\Users\lcoll\code\sharp\Linq\obj\Debug\net9.0\Linq.genruntimeconfig.cache
 C:\Users\lcoll\code\sharp\Linq\obj\Debug\net9.0\ref\Linq.dll
+C:\Users\lcoll\code\sharp\Linq\obj\Debug\net9.0\Linq.sourcelink.json
